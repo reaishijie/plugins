@@ -1,0 +1,24 @@
+{
+  "name": "xiaohui-skills",
+  "version": "0.1.0",
+  "description": "A curated local collection of Codex skills for backend, frontend, API, Reqable, and Redis workflows.",
+  "author": {
+    "name": "xiaohui"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Fine Skills",
+    "shortDescription": "Curated local skills for common Codex engineering workflows.",
+    "longDescription": "Fine Skills bundles selected local Codex skills for logger standardization, frontend notifications, frontend API generation from Reqable collections, Reqable collection maintenance, and Redis session or authority caching patterns.",
+    "developerName": "Fine",
+    "category": "Productivity",
+    "capabilities": [
+      "Backend logger standardization",
+      "Frontend notification systems",
+      "Frontend API generation from Reqable collections",
+      "Reqable collection maintenance",
+      "Redis session and authority cache patterns"
+    ],
+    "defaultPrompt": "Use the relevant Fine Skills workflow for this task."
+  }
+}
