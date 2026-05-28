@@ -1,7 +1,8 @@
 {
-  "name": "personal",
+  "name": "xiaohui-skills",
   "interface": {
-    "displayName": "Personal"
+    "displayName": "xiaohui Skills",
+    "shortDescription": "Curated local skills for common Codex engineering workflows."
   },
   "plugins": [
     {
